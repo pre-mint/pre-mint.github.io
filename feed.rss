@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Premint | Official Site</title>
+		<link><![CDATA[https://pre-mint.github.io]]></link>
+		<description>Premint has been used by some of the top artists and collections in the NFT ecosystem, including XCOPY, Coldie, DeekayMotion, Cool Cats, Known Origin, Async...</description>
+		<language>en</language>
+		<pubDate>Fri, 19 May 2023 10:28:39 +0000</pubDate>
+		<generator>MySitemapGenerator (www.mysitemapgenerator.com)</generator>
+
+		<item>
+			<guid isPermaLink="false">3361942556</guid>
+			<title>Premint | Home</title>
+			<link>https://pre-mint.github.io/cryptocurrency-prices.html</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<description>Premint combines the best decentralized cryptocurrency exchanges with Ethereum blockchain technology for business transactions.</description>
+			<pubDate>Fri, 19 May 2023 10:22:09 GMT</pubDate>
+		</item>
+		<item>
+			<guid isPermaLink="false">2106859677</guid>
+			<title>Premint | Contacts</title>
+			<link>https://pre-mint.github.io/contacts.html</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<description>We update our PEPE to USD price in real-time. Pepe is up 3.15% in the last 24 hours. The current CoinMarketCap ranking, with a live market of $686,799,162 USD.</description>
+			<pubDate>Fri, 19 May 2023 10:22:09 GMT</pubDate>
+		</item>
+	</channel>
+</rss>
